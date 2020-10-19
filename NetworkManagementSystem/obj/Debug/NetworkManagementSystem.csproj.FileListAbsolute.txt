@@ -1,0 +1,7 @@
+C:\Users\אביב\source\repos\NetworkManagementSystem\NetworkManagementSystem\obj\Debug\NetworkManagementSystem.csprojAssemblyReference.cache
+C:\Users\אביב\source\repos\NetworkManagementSystem\NetworkManagementSystem\obj\Debug\NetworkManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\אביב\source\repos\NetworkManagementSystem\NetworkManagementSystem\bin\Debug\NetworkManagementSystem.exe.config
+C:\Users\אביב\source\repos\NetworkManagementSystem\NetworkManagementSystem\bin\Debug\NetworkManagementSystem.exe
+C:\Users\אביב\source\repos\NetworkManagementSystem\NetworkManagementSystem\bin\Debug\NetworkManagementSystem.pdb
+C:\Users\אביב\source\repos\NetworkManagementSystem\NetworkManagementSystem\obj\Debug\NetworkManagementSystem.exe
+C:\Users\אביב\source\repos\NetworkManagementSystem\NetworkManagementSystem\obj\Debug\NetworkManagementSystem.pdb
